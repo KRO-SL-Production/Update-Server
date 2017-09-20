@@ -1,0 +1,20 @@
+# * Production name
+PRODUCTION_NAME =[K.R.O]= TEST
+
+# * The name of the item that will be sent
+PRODUCTION_SENDING_NAME shiyan notecart
+
+# * The version of the product, for record only
+PRODUCTION_VERSION 1.0
+
+# * Protocol header, a custom string for the encryption protocol, for verification
+PROROCOL_SINGNATURE KRO
+
+# * Protocol version, the maximum value is 255.255, for verification
+PROTOCOL_VERSION 1.0
+
+# * Encrypt string, it's like a password, just you know.
+SECRET_STRING I Love Satsuki
+
+# A mailbox for receiving alert messages when a problem occurs with the sync server.
+ALERTS_EMAIL kro.morror@yahoo.com

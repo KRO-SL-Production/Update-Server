@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-unzip": "^0.2.0",
+    "gulp-zip": "^4.0.0",
+    "cross-spawn": "^5.1.0"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "save": "gulp save",
+    "work": "gulp unzip"
+  },
+  "description": "=[K.R.O]= Update Server"
+}
