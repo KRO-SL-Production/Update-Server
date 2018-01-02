@@ -1,6 +1,7 @@
 /.idea/
 /resources/
 /src/design/
+/src/design.zip
 /gulp/
 
 *.iml
